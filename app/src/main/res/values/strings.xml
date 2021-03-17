@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Design of Steel Structures</string>
+    <string name="FE410_ultimate_tensile_stress">410</string>
+    <string name="FE410_steel_yield_stress">250</string>
+    <string name="gamma_m1">1.25</string>
+    <string name="gamma_mb">1.25</string>
+    <string name="gamma_m0">1.10</string>
+    <string name="bolt_46">400</string>
+    <string name="bolt_88">800</string>
+    <string name="shop_weld">1.5</string>
+    <string name="site_weld">1.25</string>
+    <string name="equal">Equal</string>
+    <string name="unequal">Unequal</string>
+    <string name="connected_leg_larger">Connected Leg Larger</string>
+    <string name="next">Next</string>
+    <string name="type_of_section">Type of Section</string>
+    <string name="partial_safety_factor">Partial Safety Factor</string>
+    <string name="mpa">MPa</string>
+    <string name="yield_stress">Yield Stress</string>
+    <string name="ultimate_tensile_stress">Ultimate Tensile Stress</string>
+    <string name="fe_410_steel">Fe 410 Steel</string>
+    <string name="properties_of_steel">Properties of Steel</string>
+    <string name="custom_safety_factor">Custom Safety Factor</string>
+    <string name="minimum_area_required">Minimum Area Required :</string>
+    <string name="allowable_slenderness_ratio">Allowable Slenderness Ratio</string>
+</resources>
